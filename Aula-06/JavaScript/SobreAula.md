@@ -1,5 +1,5 @@
-# Array - Aula 07
-Nesta aula foi ensinado a utilização e manipulação de Arrays com JavaScript. 
+# Array e Matriz- Aula 07
+Nesta aula foi ensinado a utilização e manipulação de Arrays e Matriz, com JavaScript. 
 
 Para fazer a inicialização de um vetor, basta usar:
 `let nomeVetor = [];` ou `let nomeVetor = new Array();`
